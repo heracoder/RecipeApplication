@@ -1,0 +1,29 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(71, 71, 71);
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    align-items: center;
+    min-width: 40%;
+}
+.image{
+    border-radius: 30%;
+    width: 200px;
+    height: 200px;
+    /* margin: 10px; */
+}
+.title{
+    font-family: Georgia, serif;
+    color:#4d004d;
+}
+.cal{
+    font-weight: bold;
+    color: rgb(51, 49, 49);
+}
+.ing{
+    font-size: 13px;
+}
